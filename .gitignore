@@ -1,4 +1,3 @@
-.user
-.git
+*.user
 # Log file
 *.log
